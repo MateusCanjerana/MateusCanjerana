@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://github.com/MateusCanjerana">
   <img height="180em" width="470em" src="https://github-readme-stats.vercel.app/api?username=MateusCanjerana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-  <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusCanjerana&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusCanjerana&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## Tecnologias que tenho familiaridade:
@@ -25,4 +25,4 @@
   <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
 </div>
 
- ![Snake animation](https://github.com/MateusCanjerana/MateusCanjerana/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MateusCanjerana/MateusCanjerana/blob/output/github-contribution-grid-snake.svg)
